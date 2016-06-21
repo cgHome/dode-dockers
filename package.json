@@ -1,0 +1,24 @@
+{
+  "name": "dode-dockers",
+  "version": "0.1.0",
+  "description": "dode docker images ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgHome/dode-dockers.git"
+  },
+  "keywords": [
+    "dode",
+    "docker",
+    "images"
+  ],
+  "author": "Chris.Gross <cgHome@gmx.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgHome/dode-dockers/issues"
+  },
+  "homepage": "https://github.com/cgHome/dode-dockers#readme"
+}
